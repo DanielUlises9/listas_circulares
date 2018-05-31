@@ -1,0 +1,10 @@
+D:\New folder\Listas_Circulares\Listas_Circulares\bin\Debug\Listas_Circulares.exe.config
+D:\New folder\Listas_Circulares\Listas_Circulares\bin\Debug\Listas_Circulares.exe
+D:\New folder\Listas_Circulares\Listas_Circulares\bin\Debug\Listas_Circulares.pdb
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.csprojResolveAssemblyReference.cache
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.Form1.resources
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.Properties.Resources.resources
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.csproj.GenerateResource.cache
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.csproj.CoreCompileInputs.cache
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.exe
+D:\New folder\Listas_Circulares\Listas_Circulares\obj\Debug\Listas_Circulares.pdb
